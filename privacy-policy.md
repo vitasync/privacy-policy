@@ -48,9 +48,10 @@ We only share limited technical data with:
 * **Google Firebase** (crash + analytics)
 * **OpenAI / ML Kit** (to provide autofill for scanned items)
 
-### 6. Children's Privacy
+### 6.Children’s Privacy
+CarbSync is not intended for use by children under the age of 13 without parental supervision. We do not knowingly collect personal data from children under 13. If you are a parent or guardian and believe your child has provided us with information, please contact us so we can delete it.
 
-CarbSync is **not intended for children under 13 years old**. We do not knowingly collect personal data from children.
+For users in the EU, we comply with the General Data Protection Regulation (GDPR) regarding data collection from minors. If you are under 16 years of age, please ensure your parent or guardian provides consent before using the app.
 
 ### 7. GDPR Compliance
 
