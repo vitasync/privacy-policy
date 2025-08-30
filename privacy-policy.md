@@ -1,70 +1,84 @@
-**Privacy Policy for CarbSync (by VitaSync Labs)**
+CarbSync: Food Log — Privacy Policy
 
-Effective Date: July 3, 2025
+Effective date: 30 August 2025
+Developer: VitaSync Labs — vitasynclabs@gmail.com 
 
----
+CarbSync (“we”, “our”, “the App”) helps you log foods, carbs and supplements. This policy explains what data is processed and your choices.
 
-CarbSync is a personal carb and supplement tracking app developed by VitaSync Labs. This privacy policy explains how we handle your data and protect your privacy.
+1) What we collect
 
-### 1. Information We Collect
+A. Data you provide
 
-#### a. User-Provided Data
+Profile details you choose to enter (e.g., age, sex, country, dietary preferences).
 
-* **Profile information** (e.g. age, sex, country, dietary preferences)
-* **Supplement and meal logs**
-* **Settings and preferences**
+Meal/supplement logs, servings, and settings.
 
-#### b. Device-Generated Data
+Storage: These are saved locally on your device. We do not receive your logs unless you explicitly share them (e.g., export, backup, or support email).
 
-* Crash reports (via Firebase Crashlytics)
-* Anonymous usage statistics (via Firebase Analytics)
-* Camera input for barcode scanning (data is not saved)
+B. Data from your device/services
 
-### 2. How We Use Your Data
+Advertising & measurement (AdMob). Google AdMob and its partners may process the Android Advertising ID, IP address, coarse location, device info, and app interaction for ad serving, personalization (where consented), and fraud prevention.
 
-We use data to:
+Crash & usage diagnostics (Firebase). Firebase Crashlytics (and optionally Analytics if enabled) collect crash traces and basic app usage to improve reliability.
 
-* Provide supplement and nutrition logging features
-* Generate progress reports and warnings
-* Recommend vitamin stacks and intake timing
-* Improve app reliability (via crash and usage reports)
+Barcode & search lookups. When you scan or search, the App requests product data from public sources such as Open Food Facts and USDA FoodData Central; your query/barcode is sent to those services to return results.
 
-### 3. Data Storage
+Optional AI helpers. If enabled features are used (e.g., OCR/autofill, text suggestions), requests may be processed by providers such as Google ML Kit or OpenAI. We don’t send your identity; only the minimal text/image snippet needed for the feature.
 
-* Your supplement logs and profile data are stored **locally on your device**.
-* We do not transmit your health or nutrition logs to our servers.
-* Analytics and crash data are sent to Google Firebase and stored securely under their compliance standards.
+2) How we use data
 
-### 4. Barcode and AI Services
+Provide core features (food lookup, logging, nutrient math).
 
-* When scanning barcodes, product data may be fetched from public databases or AI services.
-* The scanned code and query are sent to third-party APIs (e.g. OpenAI or Google ML Kit) **but no personally identifiable data** is shared.
+Show ads and measure performance via AdMob (or non-personalized ads if you choose).
 
-### 5. Data Sharing
+Improve stability and diagnose issues via Crashlytics/Analytics.
 
-We do **not** sell, rent, or share your personal data with third parties.
-We only share limited technical data with:
+Prevent abuse and keep the service secure.
 
-* **Google Firebase** (crash + analytics)
-* **OpenAI / ML Kit** (to provide autofill for scanned items)
+3) Your choices & consent
 
-### 6. Children's Privacy
+EEA/UK/CH: We use Google’s User Messaging Platform (UMP) to collect consent for personalized ads where required. You can choose personalized, non-personalized, or opt-out where available, and revisit choices in the consent dialog (from the app settings if provided) or your device ad settings (reset/limit Ad ID).
 
-CarbSync is **not intended for children under 13 years old**. We do not knowingly collect personal data from children.
+US state privacy (e.g., CA/VA/CO/CT/UT): You may choose to limit data use for targeted advertising where applicable.
 
-### 7. GDPR Compliance
+4) Sharing
 
-If you are located in the European Union:
+We don’t sell your personal data. Limited data is shared with:
 
-* You have the right to access, correct, or delete your personal data.
-* You may contact us at **[vitasynclabs@gmail.com]** for any data-related request.
+Google AdMob (ads & measurement) — see Google Ads privacy: https://policies.google.com/technologies/ads 
 
-### 8. Changes to This Policy
+Google Firebase (crash & analytics) — https://firebase.google.com/support/privacy 
 
-We may update this Privacy Policy to reflect changes to the app or legal requirements. You will be notified via the app or update notes.
+Open Food Facts / USDA (to fetch public product data you request).
 
-### 9. Contact Us
+AI/OCR providers used only when you invoke those features.
 
-For questions about this policy, contact:
-**VitaSync Labs**
-[vitasynclabs@gmail.com]
+These providers process data under their own policies and compliance programs.
+
+5) Retention
+
+Your logs stay on your device until you delete them or uninstall the app.
+
+Ad/analytics and crash data are retained by providers per their policies and legal requirements.
+
+6) Children
+
+The App is not directed to children under 13 (or the minimum age required in your region). If you believe a child has used the App and provided information, contact us.
+
+7) Security
+
+We take reasonable measures to help protect data processed by the App. No method of transmission or storage is 100% secure.
+
+8) Your rights
+
+Depending on your location, you may have rights to access, correct, delete, or restrict processing of your data, and to withdraw consent.
+Contact us at vitasynclabs@gmail.com and we’ll help route the request (e.g., to Google for AdMob/Crashlytics data).
+
+9) Changes
+
+We may update this policy. We’ll post the new version with an updated “Effective date”.
+
+10) Contact
+
+VitaSync Labs — vitasynclabs@gmail.com
+
